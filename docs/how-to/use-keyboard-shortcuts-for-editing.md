@@ -8,11 +8,11 @@ This works best if you can see the result in the preview panel, run the `Markdow
 
 ---
 
-- [ ] `cmd+b` makes the selection bold. Select me and make me bold.
+- [ ] ctrl+b` makes the selection bold. Select me and make me bold.
 
 ---
 
-- [ ] `cmd+i` makes the selection italic. Select me and make me italic.
+- [ ] ctrl+i` makes the selection italic. Select me and make me italic.
 
 ---
 
@@ -31,13 +31,13 @@ This works best if you can see the result in the preview panel, run the `Markdow
 
 ---
 
-- [ ] Search in your repo with `cmd+shift+f`: type "search"
-  - (go back to the file explorer with `cmd+shift+e`)
+- [ ] Search in your repo with ctrl+shift+f`: type "search"
+  - (go back to the file explorer with ctrl+shift+e`)
 
 ---
 
 - [ ] Paste an image
   1. copy an image
-  2. move your cursor to the next line, then press `cmd+alt+v` and confirm the name of the file
+  2. move your cursor to the next line, then press ctrl+alt+v` and confirm the name of the file
   3. .
   4. the image file has been created in `/attachments` and a reference to it has been added here
